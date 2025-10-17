@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git remote add origin https://github.com/vandana-git/git-practice-day1.git
+git add notes.txt
+git commit -m "Added GitHub push note"
+Testing collaborative workflow using branches and pull requests.
+commit this file 
