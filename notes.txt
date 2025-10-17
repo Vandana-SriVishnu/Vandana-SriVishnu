@@ -1,0 +1,2 @@
+notes.txt
+Day 1 Summary commands.txt
