@@ -1,2 +1,1 @@
-notes.txt
-Day 1 Summary commands.txt
+git remote add origin https://github.com/vandana-git/git-practice-day1.git
