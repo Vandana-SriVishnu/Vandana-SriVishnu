@@ -6,3 +6,5 @@ git commit -m "Added GitHub push note"
 Testing collaborative workflow using branches and pull requests.
 commit this file 
 this is practice of Git Commit and puch requests 
+This is half-done and will be stashed temporarily
+Git conflict demo: this is from feature branch.
