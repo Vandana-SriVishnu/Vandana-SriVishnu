@@ -8,3 +8,4 @@ commit this file
 this is practice of Git Commit and puch requests 
 This is half-done and will be stashed temporarily
 Git conflict demo: this is from feature branch.
+Git conflict demo: this is from main branch.
