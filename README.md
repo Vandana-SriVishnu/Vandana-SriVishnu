@@ -55,7 +55,7 @@ Currently strengthening my skills to transition into **Senior QA / Automation ro
 
 ## 📫 Contact Me
 📧 Email: srivishnuvandana@gmail.com  
-💼 LinkedIn: *(Add LinkedIn URL here)*  
+💼 LinkedIn: [(https://www.linkedin.com/in/srivishnuvandana-arya-somayajula-74827142/) ]
 
 ---
 
