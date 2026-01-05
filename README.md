@@ -1,10 +1,62 @@
-- 👋 Hi, I’m @Vandana-SriVishnu
-- 👀 I’m interested in 1.CyberSecurity 2. Blockchain and  3. IoT 
-- 🌱 I’m currently learning the above technologies
-- 💞️ I’m looking to collaborate on these technologies 
-- 📫 How to reach me --mail Id -srivishnuvandana@gmail.com
+# 👋 Hi, I'm Vandana Sri Vishnu  
 
-<!---
-Vandana-SriVishnu/Vandana-SriVishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧪 QA Automation Engineer | Selenium | API Testing | CI/CD  
+
+I am a **QA Automation Engineer** with hands-on experience in building **scalable automation frameworks** using **Selenium + Java**, focused on **Web, API, and CI/CD testing**.  
+Currently strengthening my skills to transition into **Senior QA / Automation roles**.
+
+---
+
+## 🔧 Tech Stack & Tools
+
+- **Automation:** Selenium WebDriver, TestNG, Maven  
+- **Programming:** Java  
+- **API Testing:** Postman, REST Assured  
+- **Frameworks:** POM, Data-Driven, Hybrid Framework  
+- **CI/CD:** GitHub Actions  
+- **Version Control:** Git, GitHub  
+- **Test Management:** Test Case Design, Defect Tracking  
+- **OS:** Windows, Basic Linux  
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 QA Automation Framework – Selenium + Java  
+📌 **Repository:** `qa-automation-framework-selenium-java`
+
+**Key Highlights:**
+- Page Object Model (POM) design
+- TestNG integration
+- Maven build setup
+- Cross-browser execution
+- GitHub Actions CI pipeline
+- HTML test reports
+
+🔗 **Project Link:**  
+👉 https://github.com/Vandana-SriVishnu/qa-automation-framework-selenium-java
+
+---
+
+## 📌 What I’m Currently Learning
+- Advanced Selenium Framework Design
+- API Automation using REST Assured
+- CI/CD automation using GitHub Actions
+- Real-time test automation best practices
+
+---
+
+## 🤝 Open to Collaborate On
+- Automation testing projects
+- Selenium / API frameworks
+- QA portfolio projects
+
+---
+
+## 📫 Contact Me
+📧 Email: srivishnuvandana@gmail.com  
+💼 LinkedIn: *(Add LinkedIn URL here)*  
+
+---
+
+⭐ If you like my work, feel free to **star** my repositories!
